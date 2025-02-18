@@ -21,5 +21,3 @@ else { // in der prod umgebung gibt es kein "global._mongoClientPromise", weil e
 }
 
 export default clientPromise // clientPromise wird exisitiert
-
-
